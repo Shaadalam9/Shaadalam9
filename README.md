@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on 🤔🤔
-- 📫 How to reach me oe21s007@smail.iitm.ac.in
+- 📫 How to reach me shaadalam.5u@gmail.com
 
 <!---
 Shaadalam9/Shaadalam9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
